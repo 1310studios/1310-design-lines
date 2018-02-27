@@ -74,4 +74,5 @@ li:hover{
 #footer{
   border: thin solid black;
   padding-top: 60px;
+  width: 900px;
 }
